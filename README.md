@@ -66,12 +66,12 @@ For additional questions, contact Emily Marsh: marshemily2@gmail.com
 
 ## Repository Structure
 
- |── data
+ |── Data
  
- ├── images
+ ├── Images
  
  ├── README.md
  
- ├── FI - Phase 1 Project.pdf
+ ├── PhaseOneFinalProjectPresentation.pdf
  
- └── phase_1_project.ipynb
+ └── PhaseOneProject.ipynb
